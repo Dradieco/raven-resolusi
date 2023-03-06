@@ -1,3 +1,5 @@
 Raven Resolusi
 - mahir laravel dan javascript
 - Membuat portfolio profile
+
+- Bisa buat project sederhana dengan laravel atau javascript
